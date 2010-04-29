@@ -1,7 +1,7 @@
 require 'rubygems'
 require 'rake'
 
-require 'lib/whenever/version.rb'
+require './lib/whenever/version.rb'
 
 begin
   require 'jeweler'
